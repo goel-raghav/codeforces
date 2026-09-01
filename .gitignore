@@ -1,0 +1,16 @@
+# C++ build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Common compiler output
+a.out
+/build/
+
+# Extensionless Codeforces executables, such as 489B
+/[0-9]*[A-Z]
